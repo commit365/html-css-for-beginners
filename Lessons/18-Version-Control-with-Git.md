@@ -62,7 +62,7 @@ GitHub is a web-based platform that uses Git for version control and collaborati
 3. **Push Changes to GitHub**: Upload your local commits to GitHub.
 
    ```bash
-   git push -u origin master
+   git push -u origin main
    ```
 
 ### Basic Git Commands
@@ -96,29 +96,32 @@ Here are some essential Git commands you will frequently use:
 - **Merge a Branch**: Merge changes from one branch into another.
 
   ```bash
-  git checkout master
+  git checkout main
   git merge new-feature
   ```
 
 - **Pull Changes from GitHub**: Update your local repository with changes from GitHub.
 
   ```bash
-  git pull origin master
+  git pull origin main
   ```
 
 ### Example Workflow
 
 1. **Start a New Project**:
+
    - Initialize a new Git repository.
    - Create your project files and make your first commit.
 
 2. **Create a New Feature**:
+
    - Create a new branch for the feature you are working on.
    - Make changes, stage them, and commit them to the new branch.
 
 3. **Merge Changes**:
-   - Switch back to the master branch.
-   - Merge your feature branch into the master branch.
+
+   - Switch back to the main branch.
+   - Merge your feature branch into the main branch.
 
 4. **Push to GitHub**:
    - Push your changes to the remote repository on GitHub.
