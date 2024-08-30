@@ -128,3 +128,5 @@ By understanding CSS syntax and the different types of selectors, you can effect
 ---
 
 This lesson provides a foundational understanding of CSS syntax and selectors, preparing you for more advanced styling techniques and responsive design.
+
+[Next: 08-Styling-Text-and-Fonts](./08-Styling-Text-and-Fonts.md)

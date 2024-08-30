@@ -124,3 +124,5 @@ By understanding and using these common HTML elements, you can create well-struc
 ---
 
 This lesson provides an overview of essential HTML elements, preparing you for more advanced web development concepts.
+
+[Next: 06-Forms-and-Inputs](./06-Forms-and-Inputs.md)

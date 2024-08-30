@@ -129,3 +129,5 @@ By understanding the box model and basic layout techniques, you can effectively 
 ---
 
 This lesson provides a foundational understanding of the CSS box model and layout techniques, preparing you for more advanced layout strategies like Flexbox and Grid.
+
+[Next: 10-Multimedia-Elements](./10-Multimedia-Elements.md)

@@ -43,3 +43,5 @@ By setting up your environment with a suitable code editor and necessary tools, 
 ---
 
 This lesson provides the foundational steps to set up a productive web development environment, enabling you to write, test, and refine your code effectively.
+
+[Next: 04-HTML-Structure](./04-HTML-Structure.md)

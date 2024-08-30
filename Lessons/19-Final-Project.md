@@ -167,3 +167,5 @@ Your final project is an opportunity to showcase everything you’ve learned thr
 ---
 
 This lesson provides a comprehensive guide to planning, designing, and implementing a complete website as your final project, allowing you to apply all the concepts learned throughout the course.
+
+[Next: 20-Resources-for-Continued-Learning](./20-Resources-for-Continued-Learning.md)

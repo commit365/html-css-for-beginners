@@ -45,3 +45,5 @@ By understanding HTML's role and structure, you can create well-organized and me
 ---
 
 This lesson provides a foundational understanding of HTML, preparing you for more advanced topics in web development.
+
+[Next: 02-What-is-CSS](./02-What-is-CSS.md)

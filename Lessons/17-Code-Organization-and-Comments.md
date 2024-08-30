@@ -270,3 +270,5 @@ By following these practices for code organization and writing meaningful commen
 ---
 
 This lesson provides practical techniques for organizing your HTML and CSS files and emphasizes the importance of writing meaningful comments, enhancing the overall quality of your code.
+
+[Next: 18-Version-Control-with-Git](./18-Version-Control-with-Git.md)

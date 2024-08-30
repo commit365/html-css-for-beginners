@@ -139,3 +139,5 @@ By understanding media queries, breakpoints, and mobile-first design principles,
 ---
 
 This lesson provides a foundational understanding of responsive design, preparing you to build flexible and adaptable web layouts that meet the needs of modern users.
+
+[Next: 15-Building-a-Simple-Web-Page](./15-Building-a-Simple-Web-Page.md)

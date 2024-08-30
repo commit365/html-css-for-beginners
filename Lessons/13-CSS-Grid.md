@@ -136,3 +136,5 @@ By understanding CSS Grid and its properties, you can create complex, responsive
 ---
 
 This lesson provides a foundational understanding of CSS Grid, preparing you to design intricate web layouts with precision and control.
+
+[Next: 14-Responsive-Design](./14-Responsive-Design.md)

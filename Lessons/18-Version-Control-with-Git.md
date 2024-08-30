@@ -130,3 +130,5 @@ By using Git and GitHub, you can effectively manage your code, collaborate with 
 ---
 
 This lesson provides a foundational understanding of version control with Git and GitHub, preparing you to utilize these tools effectively in your web development projects.
+
+[Next: 19-Final-Project](./19-Final-Project.md)

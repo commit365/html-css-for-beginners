@@ -69,3 +69,5 @@ By understanding the basic structure of an HTML document and the concepts of ele
 ---
 
 This lesson provides a foundational understanding of HTML structure, preparing you for more advanced topics in web development.
+
+[Next: 05-Common-HTML-Elements](./05-Common-HTML-Elements.md)

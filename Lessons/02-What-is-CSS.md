@@ -53,3 +53,5 @@ By using CSS, you can create visually appealing web pages that enhance the user 
 ---
 
 This lesson provides a foundational understanding of CSS, preparing you for more advanced styling techniques and responsive design concepts.
+
+[Next: 03-Setting-Up-Your-Environment](./03-Setting-Up-Your-Environment.md)

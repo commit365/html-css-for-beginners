@@ -154,3 +154,5 @@ By adding CSS transitions and animations, you enhance the interactivity of your 
 ---
 
 This lesson provides practical techniques to enhance your web project, making it more interactive, accessible, and responsive.
+
+[Next: 17-Code-Organization-and-Comments](./17-Code-Organization-and-Comments.md)

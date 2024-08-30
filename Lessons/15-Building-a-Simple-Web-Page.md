@@ -138,3 +138,5 @@ By following this lesson, you can create a simple yet effective personal portfol
 ---
 
 This lesson provides a practical application of HTML and CSS, allowing you to build a personal web page that showcases your abilities and creativity.
+
+[Next: 16-Enhancing-Your-Project](./16-Enhancing-Your-Project.md)

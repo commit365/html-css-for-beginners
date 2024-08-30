@@ -126,3 +126,5 @@ By understanding how to create forms and use different input types and attribute
 ---
 
 This lesson provides a foundational understanding of HTML forms and inputs, preparing you for more advanced form handling and validation techniques.
+
+[Next: 07-CSS-Syntax-and-Selectors](./07-CSS-Syntax-and-Selectors.md)

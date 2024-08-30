@@ -126,3 +126,5 @@ By understanding how to embed multimedia elements and use the `<canvas>` element
 ---
 
 This lesson provides a foundational understanding of multimedia elements in HTML, preparing you for more advanced techniques in web graphics and media integration.
+
+[Next: 11-Accessibility-in-HTML](./11-Accessibility-in-HTML.md)
